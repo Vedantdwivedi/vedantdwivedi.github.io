@@ -130,9 +130,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-   - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/vedant-dwivedi-60286b10a/"
+
 
 
 # Site Footer
