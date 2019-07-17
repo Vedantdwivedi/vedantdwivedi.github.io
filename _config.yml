@@ -311,3 +311,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
