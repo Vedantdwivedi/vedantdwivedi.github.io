@@ -3,15 +3,18 @@ title: About
 permalink: /about/
 ---
 
-I was born and raised in the heart of Silicon Valley, yet somehow I remained totally oblivious to the entire field of computer science until I travelled to a small college-town in the Berkshires. There, by chance, I became good friends with a CS major eager to share his excitement and knowledge about the field. 
-As soon as I could understand what he was talking about, I became hooked. 4 years later, in those rare moments when I find myself not on a computer I greatly enjoy travelling (see below photos), playing sports (especially Volleyball and Basketball), spending time outdoors (hiking, swimming, body surfing, etc...), and talking about literature and philosophy.
+A data scientist working alongside business to bring the hidden insights of data and
+its feature, building a platform for the whole organisation to leverage from the data
+lake , enabling individual to deploy a model in single click by incorporating CI/CD pipeline.
+Working as a volunteer for openAI and also write whitepaper for AI-Blockchain
+economy.    
 
-![travel]( {{ "assets/images/kenny_about.gif"" | relative_url }})
+![travel]( {{ "/images/.gif"" | relative_url }})
 
 ## Contact
 
-(650)-269-5954
+(908)-296-1189
 
-rukjones4@gmail.com
+vedant.dwivedi55@gmail.com
 
-Redwood City, CA
+Mumbai, INDIA
