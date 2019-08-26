@@ -8,8 +8,6 @@
       skill_name: SASS
     - class: bootstrap-plain
       skill_name: Bootstrap
-    - class: jquery-plain
-      skill_name: jQuery
 
 - name: languages
   skills:
@@ -17,8 +15,8 @@
       skill_name: JavaScript
     - class: python-plain
       skill_name: Python
-    - class: ruby-plain
-      skill_name: Ruby
+    - class: GO-plain
+      skill_name: Golang
 
 - name: databases
   skills:
@@ -29,7 +27,7 @@
     - class: mysql-plain
       skill_name: MySQL
 
-- name: frontend frameworks
+- name: Machine Learning frameworks
   skills:
     - class: react-plain
       skill_name: React
@@ -42,12 +40,8 @@
 
 - name: backend frameworks
   skills:
-    - class: rails-plain
-      skill_name: Ruby-on-Rails
-    - class: express-original
-      skill_name: Express
-    - class: nodejs-plain
-      skill_name: NodeJS
+    - class: Flask-plain
+      skill_name: Flask
     - class: django-plain
       skill_name: Django
 
@@ -61,17 +55,27 @@
       skill_name: Heroku
     - class: docker-plain
       skill_name: Docker
+    - class: Jenkins-plain
+      skill_name: Jenkins
+    - class: Kubernetes-plain
+      skill_name: Kubernetes
+
 
 - name: testing
   skills:
-    - class: mocha-plain
-      skill_name: Mocha
-    - class: jasmine-plain
-      skill_name: Jasmine
-    - class: rspec-plain
-      skill_name: RSpec
+    - class: selenium-plain
+      skill_name: Selenium
+    - class: Jmeter-plain
+      skill_name: Jmeter
+    - class: Locust-plain
+      skill_name: Locust
 
-- name: mobile
+- name: Data Analytics
   skills:
-    - class: react-original
-      skill_name: React Native
+    - class: pandas-original
+      skill_name: pandas
+    - class: numpy-original
+      skill_name: numpy
+    - class: matplotlib-original
+      skill_name: matplotlib
+
