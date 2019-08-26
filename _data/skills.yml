@@ -15,8 +15,8 @@
       skill_name: JavaScript
     - class: python-plain
       skill_name: Python
-    - class: GO-plain
-      skill_name: Golang
+    - class: go-plain
+      skill_name: Go
 
 - name: databases
   skills:
