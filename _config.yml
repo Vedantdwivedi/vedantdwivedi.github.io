@@ -21,7 +21,7 @@ description: >
 about_me: >
   I'm a fulltime working employee at asia's largest startup, i have been working in few domains like DevSecOps, machine Learning Models, Blockchain, Python but always the forte was to solve the problem and bring the best solution,
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://levytsroman.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://vedantdwivedi.ml" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/vedant-dwivedi-60286b10a/"
 github_link: "https://github.com/Vedantdwivedi"
 twitter_username: ""
