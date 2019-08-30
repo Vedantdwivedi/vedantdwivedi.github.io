@@ -8,10 +8,10 @@ function initializeScripts(){
     closeOnClick: true,
     draggable: true
   });
-  // $('.carousel-arrows').click(function(e){
-  //   var arrow = e.target;
-  //   debugger
-  // })
+  $('.carousel-arrows').click(function(e){
+     var arrow = e.target;
+     debugger
+  })
 
   $('.email_me').submit(function(e){
     e.preventDefault();
