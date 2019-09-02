@@ -10,6 +10,7 @@ author: Marilyn vos Savant
 <form
   action="https://formspree.io/mnrlwyem"
   method="POST"
+  enctype="multipart/form-data"
 >
   <label>
     Your Name:
@@ -25,9 +26,15 @@ author: Marilyn vos Savant
     Your Email:
     <input type="text" name="_replyto">
   </label>
+
   <label>
     Your Message:
     <textarea name="message"></textarea>
+  </label>
+
+  <label>
+    Any attchment?:
+    <input type="file" name="upload">
   </label>
 
   <!-- your other form fields go here -->
