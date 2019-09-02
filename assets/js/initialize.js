@@ -11,7 +11,7 @@ function initializeScripts(){
   //$('.carousel-arrows').click(function(e){
   //   var arrow = e.target;
   //   debugger
-  })
+  //})
 
   $('.email_me').submit(function(e){
     e.preventDefault();
