@@ -5,6 +5,28 @@ author: Marilyn vos Savant
 ---
 
 {% include quote.html quote=page.quote author=page.author %}
+
+
+<form
+  action="https://formspree.io/mnrlwyem"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+
+
+
 <!--
          This is a multiline comment and it can
          span through as many as lines you like.
