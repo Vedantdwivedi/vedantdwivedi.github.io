@@ -6,6 +6,43 @@ author: Marilyn vos Savant
 
 {% include quote.html quote=page.quote author=page.author %}
 
+
+<form
+  action="https://formspree.io/mnrlwyem"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <label>
+    Your Name:
+    <input type="text" name="name">
+  </label>
+
+  <label>
+    Contact No:
+    <input type="tel" name="phone">
+  </label>
+
+  <label>
+    Your Email:
+    <input type="text" name="_replyto">
+  </label>
+
+  <label>
+    Your Message:
+    <textarea aria-required="true" name="message"></textarea>
+  </label>
+  <label>
+    Wanna Attach Something?:
+    <input type="file" name="upload">
+  </label>
+
+
+  <button type="submit">Send</button>
+
+</form>
+
+
+<!--
 <div class="container">
     <form class="email_me" action="https://formspree.io/mnrlwyem" method="POST" enctype="multipart/form-data">
         <input type="text" name="_gotcha" style="display:none" />
@@ -50,13 +87,12 @@ author: Marilyn vos Savant
 
 
 
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
+    <button type="submit">Send</button>
 
 </form>
+-->
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
          This is a multiline comment and it can
